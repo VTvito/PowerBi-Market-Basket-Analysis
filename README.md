@@ -5,7 +5,7 @@ A Power BI project for association analysis between **categories** and **keyword
 ## Description
 This report implements a **Basket Analysis** on a dataset of books, calculating key metrics to understand relationships between categories and keywords.
 
-🔹 **Technologies Used**:
+**Technologies Used**:
 - Power BI
 - DAX
 - Dataset of books with categories and keywords
