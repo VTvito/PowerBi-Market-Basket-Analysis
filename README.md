@@ -1,8 +1,8 @@
-# 📊 Power BI Basket Analysis
+# Power BI Basket Analysis
 
 A Power BI project for association analysis between **categories** and **keywords** using **Support, Confidence, and Lift** metrics.
 
-## 🚀 Description
+## Description
 This report implements a **Basket Analysis** on a dataset of books, calculating key metrics to understand relationships between categories and keywords.
 
 🔹 **Technologies Used**:
@@ -28,6 +28,6 @@ This analysis includes:
 2. Open it in Power BI Desktop.
 3. If using the `.pbit` file, connect your dataset and refresh the report.
 
-## 📸 Report Preview
+## Report Preview
 ![Preview](dashboard_sample.PNG)
 
